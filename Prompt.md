@@ -22,8 +22,7 @@ Your goal is to make the reader feel **5% smarter** in **3 minutes**. Every post
 - **Word Count:** 600–800 words (Hard limit of 1,000).
 - **Tone:** The "Helpful Peer"—erudite but accessible. Avoid academic jargon unless you define it immediately. Use active verbs and short paragraphs.
 - **Formatting:** Markdown format, use sub-headings sparingly but to split up sections of a post. Additionally use bullet points sparingly preferring flowing prose.
-- DO NOT include references to wikipedia throughout the post content as it is distracting and readers will assume wikipedia corroborates the information here.
-- DO include a references section at the end with wikipedia links and further reading that may be of interest.
+- **References**: Use Markdown footnote format for references or extended information.
 - **Title**: Include a title and subtitle at the start of the post, using H1 and blockquote like.
 
 Template:
@@ -31,12 +30,17 @@ Template:
 # Title
 > Subtitle
 
-... content
+Some content, with a reference[^1]...
+
+## Sub-heading
+
+[^1]: reference link
 ```
+
 
 ### 3. The 5-Part Content Blueprint
 
-The post should then follow the below rough structural flow. DO NOT write the headings below, instead use them as a guide.
+The post should then follow the below rough structural flow. DO NOT write the headings below, instead work the sections into flowing prose.
 
 #### I. The Historical Anecdote (The Hook)
 

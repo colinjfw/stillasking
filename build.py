@@ -1,0 +1,86 @@
+import os
+import markdown
+import shutil
+import jinja2
+
+robots = """
+User-agent: *
+Disallow:
+"""
+
+template = """
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TITLE</title>
+    <link rel="stylesheet" href="assets/css/normalize.css">
+    <style>
+      body {
+        max-width: 800px;
+        margin: auto;
+        font-family: system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+      }
+    </style>
+</head>
+<body>
+CONTENT
+</body>
+"""
+
+def render(title, path, links=None):
+    uri = path.replace(" ", "-").replace("–", "").replace("’", "").replace("'", "").replace("&", "").replace(".md", ".html").replace('---', '-').replace('--', '-').lower()
+    dst = os.path.join("./dist", uri)
+
+    data = {
+        'links': links
+    }
+
+    with open(path, 'r', encoding='utf-8') as f:
+        text = f.read()
+    text = jinja2.Template(text).render(**data)
+    body = markdown.markdown(text, extensions=['footnotes'])
+    html = template.replace("TITLE", title).replace("CONTENT", body)
+
+    os.makedirs(os.path.dirname(dst), exist_ok=True)
+    with open(dst, 'w') as f:
+        f.write(html)
+    return uri
+
+
+shutil.rmtree("./dist/")
+os.makedirs("./dist/", exist_ok=True)
+shutil.copytree("./assets", "./dist/assets/")
+
+with open("./dist/robots.txt", 'w') as f:
+    f.write(robots)
+
+links = {}
+
+for root, dirs, files in os.walk('posts/'):
+    for file in files:
+        theme = root.replace("posts/", "")
+        if theme not in links:
+            links[theme] = {'title': theme, 'path': None, 'children': [] }
+
+        title = file.replace(".md", "")
+        path = os.path.join(root, file)
+        uri = render(title, path)
+
+        links[theme]['children'].append({ 'title': title, 'path': uri })
+        links[theme]['children'].sort(key=lambda item: int(item['title'].split('-')[0]))
+
+for root, dirs, files in os.walk('themes/'):
+    for file in files:
+        title = file.replace(".md", "")
+        path = os.path.join(root, file)
+        uri = render(title, path)
+
+        if title not in links:
+            links[title] = {'title': title, 'path': None, 'children': [] }
+        links[title]['path'] = uri
+
+sorted_links = sorted(links.values(), key=lambda item: int(item['title'].split('-')[0]))
+
+render("Still Asking", "./index.md", sorted_links)

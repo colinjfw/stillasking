@@ -1,0 +1,31 @@
+# The Crowd as a Compass
+> Jean‑Jacques Rousseau and the risky promise of the General Will
+
+In the summer of 1762, Geneva ordered a book by its most famous native son to be seized and burned. The same week, Paris condemned it too. Jean‑Jacques Rousseau—a former watchmaker’s apprentice who loved long, solitary walks—had published The Social Contract, a slim treatise that dared to ask how a people could be both governed and free. The authorities answered with bonfires. Rousseau answered with a sentence that would not burn: “Man is born free, and everywhere he is in chains.”[^1]
+
+Rousseau’s life looked nothing like a dusty portrait. He was the awkward autodidact who kept starting intellectual fires with a quill. His obsession was one problem: under what conditions does political obedience stop being servility and become self‑rule? He wasn’t interested in how princes stay in power; he wanted to know how citizens could author the laws they must obey. If a law is just because a king commands it, we’re subjects. If a law is just because we, together, command it, we might be citizens.
+
+The engine of his answer is the “general will.” Rousseau distinguishes it from the “will of all.” The will of all is a headcount of private wishes—a market of appetites. The general will is the aim we would choose if we bracketed our private interests and asked what is good for us as a whole. Think of an orchestra: the will of all is each musician playing their favorite melody; the general will is the score they agree to play so that music, not noise, fills the hall. The point is not unanimity of taste but unity around a common project. When citizens legislate with that aim, the law expresses their collective authorship.
+
+This is also why Rousseau says a shocking thing—that citizens may be “forced to be free.” He does not mean bayonets create liberty. He means that if you consent to a civic association in which everyone is equally a co‑author, then the laws made under that pact bind you even when they pinch. Coercion in service of the common rule you helped make is not domination; it’s the cost of keeping the score playable for all. The danger, of course, is obvious: who gets to declare where the “score” ends and self‑interest begins?
+
+Rousseau was not naïve about this. He worried about factions, wealth skewing judgment, and the ease with which a charismatic tribune can sell private advantage as public virtue. He prescribed civic education, simple laws, and a culture that honors the common good. The general will is not a poll result; it’s a demanding practice.
+
+Then history ran the stress test. In 1789, French revolutionaries chanted liberté, égalité, fraternité and claimed to speak for the nation rather than a king. By 1793, the Committee of Public Safety, led by Maximilien Robespierre, declared that virtue armed with terror was the instrument of the people’s will. Guillotines answered dissent. Festivals celebrated “the Supreme Being” and civic unity; denunciations filled the calendar; the general will, spoken through a few sharp tongues, became a scythe.[^2] Was this Rousseau realized—or Rousseau betrayed?
+
+The best answer is not to pin the Terror on a dead philosopher, nor to exonerate his rhetoric. Rousseau armed modern politics with a potent idea: legitimacy comes from the people as a whole. That idea can empower citizens to overthrow tyranny; it can also tempt leaders to collapse “we the people” into “we who rule.” The concept contains both a moral North Star and a navigational hazard. The French Revolution proved both at once: a monarchy shattered in the name of popular sovereignty, followed by a regime claiming the one true path of the people and silencing the people in the process.[^3]
+
+So what does the general will give us today besides slogans and alarms? It offers a lens. When a leader touts an electoral “mandate,” ask whether the proposal serves us as citizens or merely pleases us as consumers. When social media floods a feed with trending outrage, remember that the will of all is loud but not necessarily general. When policy divides winners and losers along predictable lines, test it against three civic questions:
+
+- Can the rule be publicly justified in terms anyone could in principle accept, regardless of their station?
+- Would you endorse it not knowing where you fall—rich or poor, majority or minority?
+- Does it treat persons as co‑authors of a shared order, or as means to someone else’s ends?
+
+Rousseau’s own institutional answers were often austere—small republics, frugal citizens, censuses of custom as much as of people. But the mental model travels. Citizens’ assemblies, participatory budgeting, and independent redistricting all try, in their imperfect ways, to translate “the orchestra’s score” into modern, plural societies.[^4] None guarantees a general will; each resists the slide from public reason to factional noise.
+
+Rousseau wanted politics to be a mirror in which we recognize ourselves as both rulers and ruled. The formula is demanding: strip away private interest without erasing persons, seek unity without crushing dissent, accept the law as an act of collective self‑command. The temptation will always be to let the loudest violins call cacophony symphony. The discipline is to keep asking, before we pass a law or share a headline: am I listening for my melody—or for the music we could make together?
+
+[^1]: Jean‑Jacques Rousseau, The Social Contract (1762), Book I, Ch. 1. See the Wikipedia overview for context and links to translations: https://en.wikipedia.org/wiki/The_Social_Contract  
+[^2]: On revolutionary invocations of the “general will,” see “General will” (Rousseau) and “Reign of Terror”: https://en.wikipedia.org/wiki/General_will; https://en.wikipedia.org/wiki/Reign_of_Terror  
+[^3]: For Robespierre’s role and the Festival of the Supreme Being, see: https://en.wikipedia.org/wiki/Maximilien_Robespierre; https://en.wikipedia.org/wiki/Festival_of_the_Supreme_Being  
+[^4]: For modern deliberative mechanisms approximating a “general will,” see “Citizens’ assembly” and “Participatory budgeting”: https://en.wikipedia.org/wiki/Citizens%27_assembly; https://en.wikipedia.org/wiki/Participatory_budgeting
