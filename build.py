@@ -49,7 +49,7 @@ def render(title, path, links=None):
     return uri
 
 
-shutil.rmtree("./dist/")
+shutil.rmtree("./dist/", ignore_errors=True)
 os.makedirs("./dist/", exist_ok=True)
 shutil.copytree("./assets", "./dist/assets/")
 
