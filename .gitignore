@@ -4,7 +4,6 @@ build/
 dist/
 wheels/
 *.egg-info
-uv.lock
 
 .env
 .obsidian/
