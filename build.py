@@ -32,9 +32,7 @@ def render(title, path, links=None):
 
 
 shutil.rmtree("./dist/", ignore_errors=True)
-os.makedirs("./dist/stillasking/", exist_ok=True)
-shutil.copytree("./assets", "./dist/assets/")
-shutil.copytree("./assets", "./dist/stillasking/assets/")
+os.makedirs("./dist/", exist_ok=True)
 
 with open("./dist/robots.txt", 'w') as f:
     f.write(robots)
