@@ -8,26 +8,8 @@ User-agent: *
 Disallow:
 """
 
-template = """
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>TITLE</title>
-    <link rel="stylesheet" href="assets/css/normalize.css">
-    <style>
-      body {
-        max-width: 800px;
-        margin: auto;
-        font-family: system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-      }
-    </style>
-</head>
-<body>
-CONTENT
-</body>
-"""
+with open('./template.html', 'r', encoding='utf-8') as f:
+    template = f.read()
 
 def render(title, path, links=None):
     uri = path.replace(" ", "-").replace("–", "").replace("’", "").replace("'", "").replace("&", "").replace(".md", ".html").replace('---', '-').replace('--', '-').lower()
@@ -50,8 +32,9 @@ def render(title, path, links=None):
 
 
 shutil.rmtree("./dist/", ignore_errors=True)
-os.makedirs("./dist/", exist_ok=True)
+os.makedirs("./dist/stillasking/", exist_ok=True)
 shutil.copytree("./assets", "./dist/assets/")
+shutil.copytree("./assets", "./dist/stillasking/assets/")
 
 with open("./dist/robots.txt", 'w') as f:
     f.write(robots)
