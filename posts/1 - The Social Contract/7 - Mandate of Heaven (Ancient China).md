@@ -25,7 +25,7 @@ Here’s a practical takeaway. When you watch a government—in your city or on 
 
 The Mandate of Heaven is a reminder that political authority is always rented, never owned. Heaven no longer speaks through eclipses. It speaks through empty grocery shelves, overwhelmed hospitals, stable paychecks, trustworthy courts—and, in many places, through votes. You don’t need to believe in omens to respect the message: legitimacy is not a title. It’s a job description.
 
-[^1]: “Mandate of Heaven,” Encyclopaedia Britannica. https://www.britannica.com/topic/mandate-of-heaven
-[^2]: Mencius, translated passages including “Heaven hears as the people hear; Heaven sees as the people see,” available via Chinese Text Project (Mengzi 5A5) and discussions in Stanford Encyclopedia of Philosophy, “Mencius.” https://ctext.org/mengzi and https://plato.stanford.edu/entries/mencius/
-[^3]: “Zhou dynasty,” Encyclopaedia Britannica; and “Book of Documents” (Shujing) accounts of the Zhou conquest. https://www.britannica.com/topic/Zhou-dynasty and https://www.britannica.com/topic/Book-of-History
-[^4]: “Ming dynasty,” Encyclopaedia Britannica (on late Ming crises and the 1644 fall); “Li Zicheng.” https://www.britannica.com/topic/Ming-dynasty and https://www.britannica.com/biography/Li-Zicheng
+[^1]: “Mandate of Heaven,” [Encyclopaedia Britannica](https://www.britannica.com/topic/mandate-of-heaven)
+[^2]: Mencius, translated passages including “Heaven hears as the people hear; Heaven sees as the people see,” available via Chinese Text Project (Mengzi 5A5) and discussions in Stanford Encyclopedia of Philosophy, “Mencius.” <https://ctext.org/mengzi> and <https://plato.stanford.edu/entries/mencius/>
+[^3]: “Zhou dynasty,” Encyclopaedia Britannica; and “Book of Documents” (Shujing) accounts of the Zhou conquest. <https://www.britannica.com/topic/Zhou-dynasty> and <https://www.britannica.com/topic/Book-of-History>
+[^4]: “Ming dynasty,” Encyclopaedia Britannica (on late Ming crises and the 1644 fall); “Li Zicheng.” <https://www.britannica.com/topic/Ming-dynasty> and <https://www.britannica.com/biography/Li-Zicheng>

@@ -23,8 +23,8 @@ Apply this “three‑C” lens to everything from emergency executive orders to
 
 The Founders—those contract‑writing pragmatists—did not deliver a utopia. They excluded many from the circle of consent, especially women and enslaved people, and the nation paid for that contradiction in blood and centuries of struggle. But the tool they built survives precisely because it treats consent as a structure, not a slogan. The Dunlap printers got it right before the signatures were famous: legitimacy here would rest not on names but on a process that lets us bind ourselves—and then, when necessary, unbind and begin again.
 
-[^1]: “Declaration of Independence: A Transcription,” U.S. National Archives. https://www.archives.gov/founding-docs/declaration-transcript
-[^2]: John Locke, Second Treatise of Government, especially Ch. 8 (“Of the Beginning of Political Societies”). https://www.gutenberg.org/ebooks/7370
-[^3]: Library of Congress, “Dunlap Broadside.” https://www.loc.gov/item/2007593181/
-[^4]: George Washington’s Proclamation and correspondence on the Whiskey Rebellion; see Founders Online (National Archives) overview. https://founders.archives.gov/
-[^5]: James Madison, Federalist No. 10 (faction) and No. 51 (“If men were angels”). https://guides.loc.gov/federalist-papers/text-1-10#s-lg-box-wrapper-25493202
+[^1]: “Declaration of Independence: A Transcription,” [U.S. National Archives](https://www.archives.gov/founding-docs/declaration-transcript)
+[^2]: John Locke, Second Treatise of Government, especially [Ch. 8 (“Of the Beginning of Political Societies”)](https://www.gutenberg.org/ebooks/7370).
+[^3]: Library of Congress, [“Dunlap Broadside”](https://www.loc.gov/item/2007593181/).
+[^4]: George Washington’s Proclamation and correspondence on the Whiskey Rebellion; see Founders Online [(National Archives) overview](https://founders.archives.gov/).
+[^5]: James Madison, [Federalist No. 10 (faction) and No. 51 (“If men were angels”)](https://guides.loc.gov/federalist-papers/text-1-10#s-lg-box-wrapper-25493202).

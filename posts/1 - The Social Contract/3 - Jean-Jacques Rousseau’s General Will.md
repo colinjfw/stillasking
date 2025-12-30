@@ -25,7 +25,7 @@ Rousseau’s own institutional answers were often austere—small republics, fru
 
 Rousseau wanted politics to be a mirror in which we recognize ourselves as both rulers and ruled. The formula is demanding: strip away private interest without erasing persons, seek unity without crushing dissent, accept the law as an act of collective self‑command. The temptation will always be to let the loudest violins call cacophony symphony. The discipline is to keep asking, before we pass a law or share a headline: am I listening for my melody—or for the music we could make together?
 
-[^1]: Jean‑Jacques Rousseau, The Social Contract (1762), Book I, Ch. 1. See the Wikipedia overview for context and links to translations: https://en.wikipedia.org/wiki/The_Social_Contract  
-[^2]: On revolutionary invocations of the “general will,” see “General will” (Rousseau) and “Reign of Terror”: https://en.wikipedia.org/wiki/General_will; https://en.wikipedia.org/wiki/Reign_of_Terror  
-[^3]: For Robespierre’s role and the Festival of the Supreme Being, see: https://en.wikipedia.org/wiki/Maximilien_Robespierre; https://en.wikipedia.org/wiki/Festival_of_the_Supreme_Being  
-[^4]: For modern deliberative mechanisms approximating a “general will,” see “Citizens’ assembly” and “Participatory budgeting”: https://en.wikipedia.org/wiki/Citizens%27_assembly; https://en.wikipedia.org/wiki/Participatory_budgeting
+[^1]: Jean‑Jacques Rousseau, The Social Contract (1762), Book I, Ch. 1
+[^2]: On revolutionary invocations of the “general will,” see ["General will" (Rousseau)](https://en.wikipedia.org/wiki/General_will) and [“Reign of Terror”](https://en.wikipedia.org/wiki/Reign_of_Terror)
+[^3]: [Robespierre’s role and the Festival of the Supreme Being](https://en.wikipedia.org/wiki/Maximilien_Robespierre; https://en.wikipedia.org/wiki/Festival_of_the_Supreme_Being)
+[^4]: For modern deliberative mechanisms approximating a “general will,” see [“Citizens’ assembly”](https://en.wikipedia.org/wiki/Citizens%27_assembly) and [“Participatory budgeting”](https://en.wikipedia.org/wiki/Participatory_budgeting)

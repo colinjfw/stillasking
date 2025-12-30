@@ -27,5 +27,5 @@ Rawls called justice “the first virtue of social institutions,” not a luxury
 
 [^1]: John Rawls, A Theory of Justice (Cambridge, MA: Harvard University Press, 1971; rev. ed. 1999).
 [^2]: John Rawls, “Justice as Fairness,” in Justice as Fairness: A Restatement (Cambridge, MA: Harvard University Press, 2001).
-[^3]: Stanford Encyclopedia of Philosophy, “John Rawls,” https://plato.stanford.edu/entries/rawls/
-[^4]: United Network for Organ Sharing (UNOS), “How organ allocation works,” https://unos.org/transplant/organ-allocation/
+[^3]: Stanford Encyclopedia of Philosophy, “John Rawls,” <https://plato.stanford.edu/entries/rawls/>
+[^4]: United Network for Organ Sharing (UNOS), “How organ allocation works,” <https://unos.org/transplant/organ-allocation/>

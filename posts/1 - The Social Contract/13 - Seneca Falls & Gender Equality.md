@@ -23,13 +23,8 @@ You can apply this beyond ballots. Consider whose labor sustains the economy but
 
 Seneca Falls does not tell us that every demand will be popular, or that ridicule means you’re right. It teaches a subtler lesson: legitimacy is not a metaphysical glow around institutions; it is a ledger of who gets to speak, sign, and be seen as a legal person. In 1848, a handful of neighbors carried that ledger into a chapel and wrote themselves in. The social contract became legible not as a myth about the past, but as a living document that can be amended—provided those who live under it get a pen.
 
-[^1]: Seneca Falls Convention, overview and proceedings.
-https://en.wikipedia.org/wiki/Seneca_Falls_Convention
-[^2]: Declaration of Sentiments, text and context.
-https://en.wikipedia.org/wiki/Declaration_of_Sentiments
-[^3]: Married Women’s Property Act (New York, 1848).
-https://en.wikipedia.org/wiki/Married_Women%27s_Property_Act_(New_York_1848)
-[^4]: Frederick Douglass’s role at Seneca Falls and The North Star.
-https://en.wikipedia.org/wiki/Frederick_Douglass
-[^5]: Coverture in Anglo‑American law.
-https://en.wikipedia.org/wiki/Coverture
+[^1]: [Seneca Falls Convention, overview and proceedings](https://en.wikipedia.org/wiki/Seneca_Falls_Convention).
+[^2]: [Declaration of Sentiments, text and context](https://en.wikipedia.org/wiki/Declaration_of_Sentiments).
+[^3]: [Married Women’s Property Act (New York, 1848)](https://en.wikipedia.org/wiki/Married_Women%27s_Property_Act_(New_York_1848)).
+[^4]: [Frederick Douglass’s role at Seneca Falls and The North Star](https://en.wikipedia.org/wiki/Frederick_Douglass).
+[^5]: [Coverture in Anglo‑American law](https://en.wikipedia.org/wiki/Coverture).

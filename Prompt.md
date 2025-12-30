@@ -34,7 +34,9 @@ Some content, with a reference[^1]...
 
 ## Sub-heading
 
-[^1]: reference link
+More content
+
+[^1]: reference [link](..)
 ```
 
 
