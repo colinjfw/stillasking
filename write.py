@@ -46,7 +46,7 @@ def write(num, theme, post):
             # },
         }],
     )
-    print(response.output_text)
+    print(response)
 
     with open(output, 'w') as f:
         f.write(response.output_text)

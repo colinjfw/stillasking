@@ -1,0 +1,33 @@
+# The Revolution That Feared Its Own Shadow
+> Haiti’s slave uprising toppled an empire—then crowned an emperor.
+
+The French expedition that sailed into Cap‑Français in 1802 carried an odd cargo for “liberators”: leg irons. Napoleon’s brother‑in‑law, General Leclerc, had orders to reassert Paris’s control over Saint‑Domingue and, if necessary, slavery itself. Rumors moved faster than the ships. Formerly enslaved soldiers—who had learned to read orders and landscapes—melted into the hills, lighting cane fields like signal fires. A colony built on sugar was about to learn how quickly sweetness can turn to ash.
+
+Toussaint Louverture, the self‑taught general who signed his letters “the opening,” had risen from coachman to governor. Picture him in a blue coat, pockets stuffed with constitutions and crop‑rotation plans—the strategist with a farmer’s patience. The question that consumed him was simple and unsolvable: How do you turn freedom wrested by force into laws that can outlast force? His 1801 constitution abolished slavery, affirmed universal equality, and made him governor for life. The wager was that centralized authority could protect fragile liberty in a world hostile to Black independence.[^1]
+
+The big idea beneath Haiti’s upheaval is as sharp as a cutlass: revolutions break chains, but they also break the institutions that keep power from coagulating again. Think of a revolution like a controlled burn. You light it to clear dead brush—slavery, caste, imperial rule. But without firebreaks—independent courts, civilian control of the army, plural politics—the blaze leaps the line and races wherever the wind of fear and ambition blows. Louverture warned from captivity, “In overthrowing me you have cut down only the trunk of the tree of black liberty; it will spring up again from the roots, for they are numerous and deep.”[^2] The tree did grow back—only to be trimmed into a new shape.
+
+The stress test came immediately. Leclerc’s troops briefly outmaneuvered Louverture; he was deported to France, where he died in a cold cell. But Napoleon’s restoration of slavery in other colonies made the stakes unspeakably clear on the island.[^3] The army of the formerly enslaved, now under Jean‑Jacques Dessalines, turned from negotiation to annihilation. In 1803, after years of scorched earth fighting, the French expedition collapsed from disease, desertion, and defeat. On January 1, 1804, Dessalines declared Haiti independent, a nation born with a promise and a warning: never again.[^4]
+
+Then came the part history classes hurry past. In the name of preventing a counterrevolution, Dessalines authorized brutal reprisals against remaining French colonists in 1804. That autumn, he crowned himself Jacques I, Emperor of Haiti, and the 1805 constitution entrenched a hyper‑centralized state—abolishing racial hierarchy while placing sweeping powers in the executive and permanently barring most whites from property and citizenship.[^5] The revolution that had shattered one tyranny now feared its return so intensely that it fashioned armor out of authority.
+
+Was this hypocrisy or grim realism? Haiti faced an encircled world: slaveholding powers on all sides, a French indemnity gun to its head within decades, and a plantation economy in ruins. Dessalines and his successors argued that without iron discipline—military labor regimens, tight censorship, suspicion of dissent—the old masters would reenter through the cracks. Haiti’s tragedy is that many of those measures looked, felt, and sometimes were tyrannical. Yet the alternative on offer from Europe was not liberal partnership but re‑enslavement.
+
+Here is the anatomy lesson. Tyranny rarely walks in wearing a crown. It creeps in through emergency, and emergencies are abundant in revolutions because yesterday’s laws defended yesterday’s injustices. Once leaders must rule outside the old rules to protect the new order, the question becomes: Who writes the next rules, and how soon? Haiti’s early answer tilted toward speed and strength. The results were paradoxical—an egalitarian nation that guarded equality with imperial tools.
+
+So what—and what now? Haiti offers a tough mental model: the Liberation‑to‑Order Curve. The more radical your break with the past, the more intentionally you must build non‑personal guardrails before the adrenaline fades.
+
+- Write sunset clauses into emergency powers the moment you declare them.
+- Split the monopoly on force—civilian oversight, local policing separated from national armies.
+- Bind legitimacy to procedures (elections, courts) rather than saviors (generals, founders).
+- Define the enemy by actions, not identities; if “who they are” becomes the category, your constitution becomes a weapon rack.
+
+The Haitian Revolution doesn’t reduce to a morality tale of heroes or villains. It is a ledger of impossible choices made under the world’s worst incentives. It shows that emancipations are most endangered not by their ideals, but by the fear—often justified—that those ideals will be strangled in their crib. The antidote is not naïveté about threats; it is designing a republic that can absorb threat without needing an emperor.
+
+Haiti’s first generation taught the planet that freedom could be wrested from the greatest empire of its day by people the law called property. They also taught us how easily a new state, born in fire, can harden into armor. To study their arc is to learn the difference between a revolution that wins and a republic that survives.
+
+[^1]: Constitution of 1801 (Saint‑Domingue), promulgated under Toussaint Louverture; see translations and analysis in Laurent Dubois, Avengers of the New World (Harvard Univ. Press, 2004).
+[^2]: Toussaint Louverture’s letter from Fort de Joux (1802), often quoted; see C. L. R. James, The Black Jacobins (Vintage, 1963), and archival translations.
+[^3]: Law of 20 May 1802 restoring slavery in French colonies (except those where it had been abolished by local law), debated in the Corps législatif; see Philippe Girard, Napoleon and the Transformation of the Atlantic World (Palgrave, 2012).
+[^4]: Haitian Declaration of Independence (January 1, 1804), authored in part by Boisrond‑Tonnerre and proclaimed by Dessalines.
+[^5]: Haitian Constitution of 1805 (Emperor Jacques I), which abolished racial distinctions while centralizing executive power and restricting white property ownership; see translated text in David P. Geggus (ed.), The Haitian Revolution: A Documentary History (Hackett, 2014).

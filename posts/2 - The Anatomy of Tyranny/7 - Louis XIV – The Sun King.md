@@ -1,0 +1,31 @@
+# Louis XIV and the Gravity of Power
+> How spectacle and centralization made obedience feel natural—and why that still matters
+
+At dawn in Versailles, the king’s bedroom filled like a theater. A physician checked the royal pulse; a master of the wardrobe presented stockings; nobles elbowed for the privilege of handing over a sleeve. The “lever,” Louis XIV’s morning rising, turned dressing into ceremony. It was bureaucracy as ballet: every bow and button told France where power lived. The man at the center called himself the Sun King. Around him orbited a nation.
+
+Louis did not invent royal authority, but he perfected the operating system. Born in 1638, scarred as a child by a civil upheaval called the Fronde, he learned one lesson early: when nobles bargain like warlords, the state ceases to be a state.[^1] As an adult he made a radical bet—that you could prevent chaos not by sharing power but by absorbing it. He built a glittering palace, yes, but more importantly he built an administrative machine: intendants in the provinces who answered to him, a standing army loyal to the crown, and a fiscal apparatus that could reach into pockets once insulated by privilege.[^2] If you remember nothing else, remember the image: Louis as a radiant star, and everyone else carefully placed in gravitational order.
+
+Absolutism was the big idea; spectacle was the user interface. Versailles was not only a home but a design solution. Bring the nobles close, saturate them with ritual, and you deprive them of time and space to plot in the provinces. Patronize artists, choreograph court life, and you turn politics into etiquette. The system made obedience feel normal, even beautiful. Jacques-Bénigne Bossuet, the court’s theologian of power, furnished the doctrine: kings rule by divine right, “called gods on earth” because they mirror God’s authority in their realm.[^3] Think of it like an eclipse: when the Sun King stood between the people and God, his silhouette acquired a sacred halo.
+
+But ideas encounter friction when they hit the ground. The decisive stress test came in 1685, when Louis revoked the Edict of Nantes—the law that had, since 1598, granted France’s Protestant minority limited toleration. With the Edict of Fontainebleau, he outlawed Protestant worship, closed Huguenot churches and schools, and pressured conversions, unleashing the “dragonnades” as soldiers quartered in Protestant homes.[^4] The policy made administrative sense inside his system: one king, one law, one faith. Unity was governance. Dissent was disorder.
+
+The costs were immediate and long-term. Hundreds of thousands of skilled Huguenots fled—artisans, merchants, officers—taking capital and know-how to England, the Dutch Republic, and Prussia.[^5] France, meanwhile, gained a reputation for religious cruelty that complicated its diplomacy and commerce. At home, surveillance thickened. When the state must check consciences to secure unity, it grows a thousand eyes. The court glowed, the ledgers swelled, the armies drilled—and yet the country suffered famines and crushing war debts by the century’s end.[^2] The star shone; the orbit strained.
+
+There’s a legend that Louis once declared, “I am the state.” It’s probably apocryphal, but it endures because it captures a truth about how absolutism communicates.[^6] It teaches citizens to confuse the ruler with the republic, the office with the person, stability with obedience. That is the ethical heart of tyranny: not merely the cruelty it permits, but the moral imagination it narrows. Under such a regime, disagreement feels like treason and conscience becomes a private luxury.
+
+So what? We live far from Versailles, and yet the theater-state is not passé. Leaders today, political or corporate, still try to convert access into loyalty and ceremony into control. Three signals are worth watching:
+
+- Rituals of access replace rules of process. If getting time with the boss matters more than the vote or the memo, you’re in a lever, not a legislature.
+- “Unity” becomes a policy goal rather than a civic result. When leaders treat pluralism as a defect to be managed away, expect the administrative state to police belief—if not religion, then ideology.
+- Spectacle crowds out accountability. Budgets and audits are boring; parades and dashboards glitter. Tyranny always prefers the latter.
+
+A practical model: gravity. Ask, what is the center of mass here—an institution or a person? The more the center is a person, the more every orbit depends on favor; the more the center is an institution, the more orbits are governed by law. Louis XIV made himself the sun and paid the price when the system needed a sunrise without him. Healthy polities—and healthy organizations—build smaller suns and sturdier constellations: independent courts and auditors; term limits and succession plans; genuine tolerance that lowers the surveillance temperature.
+
+Louis wanted order after fear. Many of us do. The caution of his reign is that, in curing chaos by concentrating power, you may purchase unity at the rate of freedom—and discover, too late, that what looked like sunlight was only heat.
+
+[^1]: The Fronde (1648–1653): civil wars that shaped Louis’s suspicion of aristocratic autonomy. See “Fronde” (Wikipedia) [link](https://en.wikipedia.org/wiki/Fronde).
+[^2]: On Versailles, centralization, intendants, army, finance, and late-reign crises, see “Louis XIV of France” (Wikipedia) [link](https://en.wikipedia.org/wiki/Louis_XIV).
+[^3]: Jacques-Bénigne Bossuet, Politics Drawn from the Very Words of Holy Scripture, on divine-right monarchy: “Kings are called gods on earth…” (Wikipedia overview) [link](https://en.wikipedia.org/wiki/Jacques-B%C3%A9nigne_Bossuet).
+[^4]: Edict of Fontainebleau (1685) revoking the Edict of Nantes; dragonnades and persecution of Huguenots (Wikipedia) [link](https://en.wikipedia.org/wiki/Edict_of_Fontainebleau).
+[^5]: Huguenot diaspora and economic effects (Wikipedia) [link](https://en.wikipedia.org/wiki/Huguenots).
+[^6]: “L’État, c’est moi” is widely attributed to Louis XIV but considered apocryphal (Wikipedia) [link](https://en.wikipedia.org/wiki/L%27%C3%89tat,_c%27est_moi).

@@ -1,0 +1,32 @@
+# Oliver Cromwell’s Protectorate
+> How a revolution against a king slipped into a monarchy by another name.
+
+On a winter morning in 1661, London staged a theatrical execution—of a corpse. Officials exhumed Oliver Cromwell, hanged his body at Tyburn, then mounted his severed head on a spike outside Westminster Hall. The message was blunt: the republic that had killed a king had ended by restoring one, and it would damn the memory of the man who tried to replace monarchy with something “godly.” Ten years earlier—almost to the day—Charles I had lost his head. In the space between those heads on poles lies a lesson about how republics drift toward one-man rule.[^1]
+
+Cromwell did not set out to wear a crown. He was the cavalryman who prayed before charging, the country gentleman turned general who helped forge the New Model Army and break the royalists at Naseby. His question was obsessive and sincere: could England be made a “commonwealth of saints,” orderly and free of the moral rot he saw in court and tavern alike? He distrusted “interest” and whim; he trusted providence and discipline. The soldier’s habits stayed with him: lines must hold, and chaos must be contained.
+
+After Parliament won the civil wars, chaos arrived anyway. The Rump quarreled, radicals preached, soldiers muttered. Cromwell resolved the impasse with steel. In April 1653, he marched into Parliament and dissolved it. By December, England had a written constitution—the Instrument of Government—naming a single “Lord Protector” with a council, parliaments on a schedule, and crucially, control over the army. It looked like a safety net; it also looked like a net you could not easily escape.[^2]
+
+Think of the Protectorate as a firebreak thrown up during a blaze. You cut down liberties like trees to stop the flames. The problem is that, once the fire passes, the scar remains—and the next forester may decide the cleared ground makes fine pasture for himself.
+
+Cromwell governed in that scar. He pursued toleration for many Protestants, but not for Catholics. He let juries sit, but he let soldiers police. In 1655 he divided England and Wales into military districts and put Major-Generals in charge. These officers raised a special tax, broke up rowdy fairs, and shuttered what they saw as vice. The project promised godliness and security; it delivered surveillance and resentment.[^3] The war hero was no caricatured tyrant, but the system he built made personal virtue irrelevant. A good man can run a bad blueprint.
+
+The stress test came in 1657. Parliament, weary of improvisation, offered Cromwell the Humble Petition and Advice—a new constitution that, among other changes, asked him to take the crown and restore a second chamber. Cromwell refused the title “king,” but accepted the rest: a quasi–House of Lords (“the Other House”), a more regular revenue, and the power to name his successor. He kept the sword, took the scepter’s functions, and left the word “monarchy” on the cutting-room floor.[^4] When he died the next year, his son Richard slid—unelected—into the Protector’s chair. Heredity without the coronation: the revolution had taught its own institutions to obey a family line.
+
+It couldn’t last. Richard lacked his father’s authority with the army, the fiscal scaffolding wobbled, and the old parties—royalists and Presbyterians—spotted an opening. By 1660, the Stuart Restoration arrived to applause. If the Protectorate sought to cure the disease of personal rule, it had administered the wrong medicine: a dose of personal rule in a different bottle. The hangman’s danse macabre with Cromwell’s corpse was less about vengeance than about amnesia—an easy way to forget why the country had cut off a king’s head in the first place.
+
+So what? Three red flags from the Protectorate travel well.
+
+- Permanent emergency: Cromwell governed under the sign of “necessity.” Emergencies happen; permanence is the problem. Demand dates, metrics, and sunset clauses. If “for now” becomes “until further notice,” the firebreak is becoming a wall.
+- Military seepage: The Major-Generals blurred civil and military authority. In any system, ask whether uniforms decide or merely enforce. The more soldiers adjudicate everyday life, the less oxygen remains for civilian legitimacy.
+- Titles versus powers: Cromwell declined “king,” then accepted kingly functions. Words soothe; structures bite. Evaluate institutions by what they can do, not by what they call themselves.
+
+One last myth to retire clarifies the real lesson. Did Cromwell “ban Christmas”? Parliament passed ordinances curbing Christmas festivities during the wars, and the Commonwealth enforced them, but this was not a lone autocrat’s personal vendetta—it was a moral policy apparatus at work.[^5] That’s the point. Tyranny, when it grows from a republic, rarely announces itself with a crown. It arrives with committees, guardians, schedules, and a promise to keep you safe until the storm passes. By the time the weather clears, you may find you’ve traded your parliament for a protector—and your protector for a dynasty.
+
+The mental model to keep: whenever a leader claims exceptional powers “just this once,” imagine your least favorite politician wielding the same tool. If the thought makes your stomach drop, the tool belongs back in the shed.
+
+[^1]: Cromwell’s posthumous execution occurred on January 30, 1661 (Old Style), the anniversary of Charles I’s death. See “Oliver Cromwell — Aftermath” (Wikipedia) [link](https://en.wikipedia.org/wiki/Oliver_Cromwell#Death_and_posthumous_execution).
+[^2]: The Instrument of Government (1653) established the Lord Protectorate and is often called England’s first written constitution. See “Instrument of Government” (Wikipedia) [link](https://en.wikipedia.org/wiki/Instrument_of_Government).
+[^3]: On the 1655–1657 rule of the Major-Generals and the decimation tax, see “Rule of the Major-Generals” (Wikipedia) [link](https://en.wikipedia.org/wiki/Rule_of_the_Major-Generals).
+[^4]: On the Humble Petition and Advice (1657) and Cromwell’s refusal of the crown, see “Humble Petition and Advice” (Wikipedia) [link](https://en.wikipedia.org/wiki/Humble_Petition_and_Advice).
+[^5]: Parliament’s measures against Christmas festivities preceded and extended beyond Cromwell personally. See “Christmas under the Commonwealth and Protectorate” (Wikipedia: “Christmas in United Kingdom”) [link](https://en.wikipedia.org/wiki/Christmas_in_the_United_Kingdom#Commonwealth_and_Protectorate).
